@@ -1,0 +1,249 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "author": "Benjamin Tan",
+      "title": "Little Elixir Book"
+    },
+    {
+      "id": 3,
+      "author": "Benjamin Tan",
+      "title": "Little Elixir Book"
+    },
+    {
+      "id": 4,
+      "author": "Benjamin Tan",
+      "title": "Little Elixir Book"
+    },
+    {
+      "id": 5,
+      "author": "Benjamin Tan",
+      "title": "Little Elixir Book"
+    },
+    {
+      "id": 6,
+      "author": "Benjamin Tan",
+      "title": "Little Elixir Book"
+    },
+    {
+      "id": 7,
+      "author": "Benjamin Tan",
+      "title": "Little Elixir Book"
+    },
+    {
+      "id": 8,
+      "author": "Benjamin Tan",
+      "title": "Little Elixir Book"
+    },
+    {
+      "id": 9,
+      "author": "Benjamin Tan",
+      "title": "Little Elixir Book"
+    },
+    {
+      "id": 10,
+      "author": "Benjamin Tan",
+      "title": "Little Elixir Book"
+    },
+    {
+      "id": 11,
+      "author": "Benjamin Tan",
+      "title": "Little Elixir Book"
+    },
+    {
+      "id": 12,
+      "author": "Benjamin Tan",
+      "title": "Little Elixir Book"
+    },
+    {
+      "id": 13,
+      "author": "Benjamin Tan",
+      "title": "Little Elixir Book"
+    },
+    {
+      "id": 14,
+      "author": "Benjamin Tan",
+      "title": "Little Elixir Book"
+    },
+    {
+      "id": 15,
+      "author": "Benjamin Tan",
+      "title": "Little Elixir Book"
+    },
+    {
+      "id": 16,
+      "author": "Benjamin Tan",
+      "title": "Little Elixir Book"
+    },
+    {
+      "id": 17,
+      "author": "Benjamin Tan",
+      "title": "Little Elixir Book"
+    },
+    {
+      "id": 18,
+      "author": "Benjamin Tan",
+      "title": "Little Elixir Book"
+    },
+    {
+      "id": 19,
+      "author": "Benjamin Tan",
+      "title": "Little Elixir Book"
+    },
+    {
+      "id": 20,
+      "author": "Benjamin Tan",
+      "title": "Little Elixir Book"
+    },
+    {
+      "id": 21,
+      "author": "Benjamin Tan",
+      "title": "Little Elixir Book"
+    },
+    {
+      "id": 22,
+      "author": "Benjamin Tan",
+      "title": "Little Elixir Book"
+    },
+    {
+      "id": 23,
+      "author": "Benjamin Tan",
+      "title": "Little Elixir Book"
+    },
+    {
+      "id": 24,
+      "author": "Benjamin Tan",
+      "title": "Little Elixir Book"
+    },
+    {
+      "id": 25,
+      "author": "Benjamin Tan",
+      "title": "Little Elixir Book"
+    },
+    {
+      "id": 26,
+      "author": "Benjamin Tan",
+      "title": "Little Elixir Book"
+    },
+    {
+      "id": 27,
+      "author": "Benjamin Tan",
+      "title": "Little Elixir Book"
+    },
+    {
+      "id": 28,
+      "author": "Benjamin Tan",
+      "title": "Little Elixir Book"
+    },
+    {
+      "id": 29,
+      "author": "Benjamin Tan",
+      "title": "Little Elixir Book"
+    },
+    {
+      "id": 30,
+      "author": "Benjamin Tan",
+      "title": "Little Elixir Book"
+    },
+    {
+      "id": 31,
+      "author": "Benjamin Tan",
+      "title": "Little Elixir Book"
+    },
+    {
+      "id": 32,
+      "author": "Benjamin Tan",
+      "title": "Little Elixir Book"
+    },
+    {
+      "id": 33,
+      "author": "Benjamin Tan",
+      "title": "Little Elixir Book"
+    },
+    {
+      "id": 34,
+      "author": "Benjamin Tan",
+      "title": "Little Elixir Book"
+    },
+    {
+      "id": 35,
+      "author": "Benjamin Tan",
+      "title": "Little Elixir Book"
+    },
+    {
+      "id": 36,
+      "author": "Benjamin Tan",
+      "title": "Little Elixir Book"
+    },
+    {
+      "id": 37,
+      "author": "Benjamin Tan",
+      "title": "Little Elixir Book"
+    },
+    {
+      "id": 38,
+      "author": "Benjamin Tan",
+      "title": "Little Elixir Book"
+    },
+    {
+      "id": 39,
+      "author": "Benjamin Tan",
+      "title": "Little Elixir Book"
+    },
+    {
+      "id": 40,
+      "author": "Benjamin Tan",
+      "title": "Little Elixir Book"
+    },
+    {
+      "id": 41,
+      "author": "Benjamin Tan",
+      "title": "Little Elixir Book"
+    },
+    {
+      "id": 42,
+      "author": "Benjamin Tan",
+      "title": "Little Elixir Book"
+    },
+    {
+      "id": 43,
+      "author": "Benjamin Tan",
+      "title": "Little Elixir Book"
+    },
+    {
+      "id": 44,
+      "author": "Benjamin Tan",
+      "title": "Little Elixir Book"
+    },
+    {
+      "id": 45,
+      "author": "Benjamin Tan",
+      "title": "Little Elixir Book"
+    },
+    {
+      "id": 46,
+      "author": "Benjamin Tan",
+      "title": "Little Elixir Book"
+    },
+    {
+      "id": 47,
+      "author": "Benjamin Tan",
+      "title": "Little Elixir Book"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
